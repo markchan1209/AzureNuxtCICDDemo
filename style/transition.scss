@@ -1,0 +1,8 @@
+.fade-transform-enter-active,
+.fade-transform-leave-active {
+  transition: opacity 0.4s;
+}
+.fade-transform-enter,
+.fade-transform-leave-active {
+  opacity: 0;
+}

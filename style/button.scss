@@ -1,0 +1,96 @@
+// button
+.fdb-btn-info {
+  font-family: 'Noto Sans CJK TC';
+  color: #fff;
+  display: inline-block;
+  text-align: center;
+  line-height: 30px;
+  padding: 0px 40px;
+  background: #1e2433;
+  border: 1px #1e2433 solid;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.2s;
+  &.active,
+  &:hover,
+  &-hover:hover {
+    border: 1px #62ffff solid !important;
+    color: #62ffff !important;
+  }
+  &.disabled {
+    filter: opacity(0.3);
+    pointer-events: none;
+  }
+  @media screen and (max-width: 749px) {
+    padding: 0px 22px;
+    font-size: 14px;
+  }
+  @media screen and (max-width: 400px) {
+    padding: 0px 6px;
+  }
+}
+
+.fdb-btn-default {
+  font-family: 'Noto Sans CJK TC';
+  color: #fff;
+  display: inline-block;
+  text-align: center;
+  line-height: 30px;
+  border: 1px solid;
+  border-color: #62ffff;
+  padding: 0px 40px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.2s;
+  &.active,
+  &:hover,
+  &-hover:hover {
+    border-color: #3ea9cc !important;
+    background: #3ea9cc !important;
+  }
+  &.disabled {
+    filter: opacity(0.3);
+    pointer-events: none;
+  }
+  @media screen and (max-width: 749px) {
+    padding: 0px 22px;
+    font-size: 14px;
+  }
+  @media screen and (max-width: 400px) {
+    padding: 0px 6px;
+  }
+}
+
+.fdb-btn-primary {
+  font-family: 'Noto Sans CJK TC';
+  color: #fff;
+  display: inline-block;
+  text-align: center;
+  line-height: 30px;
+  background: linear-gradient(180deg, #62ffff 9.47%, #3ea9cc 100%);
+  padding: 0px 40px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.2s;
+  &.active,
+  &:hover,
+  &-hover:hover {
+    background: linear-gradient(180deg, #3ea9cc 9.47%, #3ea9cc 100%) !important;
+  }
+  &.disabled {
+    filter: opacity(0.3);
+    pointer-events: none;
+  }
+  @media screen and (max-width: 749px) {
+    padding: 0px 22px;
+    font-size: 14px;
+  }
+  @media screen and (max-width: 400px) {
+    padding: 0px 6px;
+  }
+}
+
+.click-disabled {
+  filter: opacity(0.3);
+  pointer-events: none;
+}

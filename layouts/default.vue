@@ -1,55 +1,46 @@
 <template>
-  <div>
-    <nuxt />
+  <div v-loading="globalLoading" element-loading-background="rgba(0, 0, 0, 0.5)">
+    <Nav v-if="!hideNavFooter" />
+    <Nuxt />
+    <Footer v-if="!hideNavFooter" />
+    <CommonConnect v-if="!hideNavFooter" />
   </div>
 </template>
 
-<style>
-html {
-  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
-    Roboto, 'Helvetica Neue', Arial, sans-serif;
-  font-size: 16px;
-  word-spacing: 1px;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-font-smoothing: antialiased;
-  box-sizing: border-box;
-}
+<script>
+import { debounce } from '@/utils/debounce.js'
 
-*,
-*:before,
-*:after {
-  box-sizing: border-box;
-  margin: 0;
-}
+export default {
+  name: 'App',
+  computed: {
+    hideNavFooter() {
+      return this.$route.meta.hideNavFooter
+    },
+    globalLoading() {
+      return this.$store.state.app.globalLoading
+    }
+  },
+  mounted() {
+    // 監聽裝置寬度
+    this.$store.commit('app/SET_DEVICE_WIDTH', window.innerWidth)
+    const debounceWidth = debounce(() => {
+      this.$store.commit('app/SET_DEVICE_WIDTH', window.innerWidth)
+    }, 100)
+    window.addEventListener('resize', debounceWidth)
 
-.button--green {
-  display: inline-block;
-  border-radius: 4px;
-  border: 1px solid #3b8070;
-  color: #3b8070;
-  text-decoration: none;
-  padding: 10px 30px;
+    // 滾動距離底部距離
+    const debounceScroll = debounce(this.scorllBottomCheck, 20)
+    window.addEventListener('scroll', debounceScroll)
+  },
+  methods: {
+    scorllBottomCheck() {
+      this.$store.commit(
+        'app/SET_SCROLL_BOTTOM',
+        document.documentElement.scrollHeight - document.documentElement.clientHeight - document.documentElement.scrollTop
+      )
+    }
+  }
 }
+</script>
 
-.button--green:hover {
-  color: #fff;
-  background-color: #3b8070;
-}
-
-.button--grey {
-  display: inline-block;
-  border-radius: 4px;
-  border: 1px solid #35495e;
-  color: #35495e;
-  text-decoration: none;
-  padding: 10px 30px;
-  margin-left: 15px;
-}
-
-.button--grey:hover {
-  color: #fff;
-  background-color: #35495e;
-}
-</style>
+<style lang="scss"></style>

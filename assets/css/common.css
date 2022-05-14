@@ -1,0 +1,89 @@
+/*共用*/
+@font-face {
+  font-family:'Noto Sans CJK TC';
+  src: url("../font/NotoSansTC-Medium.otf") format("opentype");
+  /* unicode-range: U+4E00-9FFF; */
+}
+@font-face {
+  font-family:'Avenir';
+  src: url("../font/avenir_ff/AvenirLTStd-Book.otf") format("opentype");
+}
+
+body::-webkit-scrollbar {display: none;}
+img{width:100%;height:auto;}
+input,select,a,button{outline:none;text-decoration:none;border:none;}
+.outline{width:100%;height:auto;float:left;}
+.outblock{width:1347px;height:auto;display:block;margin:0 auto;}
+::-webkit-scrollbar {width: 4px;height: 4px;} 
+::-webkit-scrollbar-thumb {background: rgba(90, 90, 90,0.5);}
+::-webkit-scrollbar-track {background: rgba(0, 0, 0, 0.2);}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+/*Header*/
+
+/*Register*/
+.register-bg{width:100%;height:100vh;float:left;}
+.register-kv-block{width:60%;height:100vh;float: left;background:url(../img/common/login-bg.png) no-repeat;background-position:center 50px;background-size: contain;}
+.register-kv-block>a.logo{width:240px;height:auto;float: left;position:absolute;margin:0 0 0 95px;top:80px;}
+.register-main-block{width:40%;height:100vh;float: right;}
+.register-main-block>div.main{width:75%;height:100%;display:block;margin:0 auto;position: relative;display: flex;flex-direction: column;justify-content: center;}
+.register-main-block>div.main>div.title{width:100%;height:auto;float: left;font-size:30px;font-weight:700;margin-bottom:19px;}
+.register-main{width:100%;height:66px;float: left;margin-bottom:20px;}
+.register-main>div.title{width:100%;height:auto;float: left;font-size:16px;color:#fff;margin-bottom:5px;}
+.register-main>input.input{width:100%;height:42px;float: left;font-size:14px;color:#c4c4c4;border:none;background:#252c3d;box-sizing: border-box;border-radius: 8px;padding-left:10px;}
+.register-main>.check{width:20px;height:20px;float:left;margin-right:9px;border:none;background:#252c3d;box-sizing: border-box;border-radius: 2px;margin-top: 3px;cursor: pointer;}
+.register-main>div.check-title{width:auto;height:auto;float: left;font-size:13px;font-weight:normal;margin-bottom:32px;line-height: 24px;}
+.register-bg .register-main-btn{font-family: 'Noto Sans CJK TC';height:44px;float: left; background-image: linear-gradient(to top, #3ea9cc, #62ffff);;border-radius:500px;line-height:44px;text-align:center;color:white;font-size:20px;}
+.register-main-tips{width:100%;height:auto;float: left;margin-top:20px;font-size:14px;text-align: center;}
+/*Register*/
+
+/*login*/
+.login-bg{width:100%;height:100vh;float:left;}
+.login-kv-block{width:60%;height:100vh;float: left;background:url(../img/common/login-bg.png) no-repeat;background-position:center 50px;background-size: contain;}
+.login-kv-block>a.logo{width:240px;height:auto;float: left;position:absolute;margin:0 0 0 95px;top:80px;}
+.login-main-block{width:40%;height:100vh;float: right;}
+.login-main-block>div.main{width:75%;height:100%;display:block;margin:0 auto;position: relative;display: flex;flex-direction: column;justify-content: center;}
+.login-main-block>div.main>div.title{width:100%;height:auto;float: left;font-size:30px;font-weight:700;margin-bottom:19px;}
+.login-main{width:100%;height:66px;float: left;margin-bottom:20px;}
+.login-main>div.title{width:100%;height:auto;float: left;font-size:16px;color:#fff;margin-bottom:5px;}
+.login-main>input.input{width:100%;height:42px;float: left;font-size:14px;color:#c4c4c4;border:none;background:#252c3d;box-sizing: border-box;border-radius: 8px;padding-left:10px;}
+.login-bg .login-main-btn{font-family: 'Noto Sans CJK TC';height:44px;float: left; background-image: linear-gradient(to top, #3ea9cc, #62ffff);border-radius:500px;line-height:44px;text-align:center;color:white;font-size:20px;}
+.login-main-tips{width:100%;height:auto;float: left;margin-top:20px;font-size:14px;text-align: center;}
+/*login*/
+
+/*reset*/
+.reset-bg{width:100%;height:100vh;float:left;}
+.reset-kv-block{width:60%;height:100vh;float: left;background:url(../img/common/login-bg.png) no-repeat;background-position:center 50px;background-size: contain;}
+.reset-kv-block>a.logo{width:240px;height:auto;float: left;position:absolute;margin:0 0 0 95px;top:80px;}
+.reset-main-block{width:40%;height:100vh;float: right;}
+.reset-main-block>div.main{width:75%;height:100%;display:block;margin:0 auto;position: relative;display: flex;flex-direction: column;justify-content: center;}
+.reset-main-block>div.main>div.title{width:100%;height:auto;float: left;font-size:30px;font-weight:700;margin-bottom:19px;}
+.reset-main{width:100%;height:66px;float: left;margin-bottom:12px;}
+.reset-main>div.title{width:100%;height:auto;float: left;font-size:16px;color:#fff;margin-bottom:5px;}
+.reset-main>input.input{width:100%;height:42px;float: left;font-size:16px;color:#c4c4c4;border:none;background:#252c3d;box-sizing: border-box;border-radius: 8px;padding-left:10px;}
+.reset-bg .reset-main-btn{height:44px;float: left; background-image: linear-gradient(to top, #3ea9cc, #62ffff);;border-radius:500px;line-height:44px;text-align:center;color:white;font-size:18px;}
+.reset-main-tips{width:100%;height:auto;float: left;margin-top:20px;font-size:16px;text-align: center;}
+/*reset*/
+
+/*newpwd*/
+.newpwd-bg{width:100%;height:100vh;float:left;}
+.newpwd-kv-block{width:60%;height:100vh;float: left;background:url(../img/common/login-bg.png) no-repeat;background-position:center 50px;background-size: contain;}
+.newpwd-kv-block>a.logo{width:240px;height:auto;float: left;position:absolute;margin:0 0 0 95px;top:80px;}
+.newpwd-main-block{width:40%;height:100vh;float: right;}
+.newpwd-main-block>div.main{width:75%;height:100%;display:block;margin:0 auto;position: relative;display: flex;flex-direction: column;justify-content: center;}
+.newpwd-main-block>div.main>div.title{width:100%;height:auto;float: left;font-size:30px;font-weight:700;margin-bottom:19px;}
+.newpwd-main{width:100%;height:66px;float: left;margin-bottom:12px;}
+.newpwd-main>div.title{width:100%;height:auto;float: left;font-size:16px;color:#fff;margin-bottom:5px;}
+.newpwd-main>input.input{width:100%;height:42px;float: left;font-size:13px;color:#c4c4c4;border:none;background:#252c3d;box-sizing: border-box;border-radius: 8px;padding-left:10px;}
+.newpwd-bg .newpwd-main-btn{height:44px;float: left; background-image: linear-gradient(to top, #3ea9cc, #62ffff);;border-radius:500px;line-height:44px;text-align:center;color:white;font-size:20px;}
+/*newpwd*/

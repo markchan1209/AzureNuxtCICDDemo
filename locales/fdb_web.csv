@@ -1,0 +1,315 @@
+i18n=>,TW,EN,KR,JP,CN
+all,全部,All,전체보기,全部,全部
+exchange,交易所,Exchange,거래소,取引所,交易所
+your_profit,您的盈利,Profits,수익현황,お客様の収益,您的盈利
+go_to__withdrawal_address,前往出金地址,Edit Withdraw Address,이전 출금주소,出金先アドレス,前往出金地址
+unbind,未綁定,Invalid,미연동,バインディングされていない,未绑定
+bound,已綁定,Valid,연동완료,バインディングされている,已绑定
+fdb_home,FDB首頁,Home,메인페이지,ホームページ,FDB首页
+latest_news,最新消息,News,최신소식,最新ニュース,最新消息
+contact_us,聯絡我們,Contact Us,관련문의,お問い合わせ,联络我们
+disclaimer,免責聲明,Disclaimer,이용약관,免責声明,免责声明
+privacy_policy,隱私條款,PrivacyPolicy,개인정보처리방침,プライバシーポリシー,隐私条款
+personal_information,個人資訊管理,Information Management,내 정보,個人情報管理,个人资讯管理
+overview_rebate,返佣交易總覽,Dashboard,리베이트,リベート取引一覧,返佣交易总览
+logout,登出,Logout,나가기,ロックアウト,登出
+login,登入,Login,로그인,ログイン,登入
+register,註冊,Register,회원가입,新規登録,注册
+exchange_not_yet_bound,交易所尚未綁定，無法查看交易總覽。,"The exchange has not been bound, and the transaction overview cannot be viewed.",거래소에 연동되지 않아 확인이 불가능합니다.,取引所バインディングされていないので取引一覧を調べられません,交易所尚未绑定，无法查看交易总览。
+Taiwan,台灣,Taiwan,대만,台灣,台湾
+China_Mainland,中國大陸,China,중국,中国,中国大陆
+Hongkong,香港,HongKong,홍콩,ホンコン,香港
+Japan,日本,Japan,일본,日本,日本
+South_Korea,韓國,Korea,대한민국,韓国,韩国
+Philippines,菲律賓,Philippines,필리핀,フィリピン,菲律宾
+Singapore,新加坡,Singapore,싱가폴,シンガポール,新加坡
+Malaysia,馬來西亞,Malaysia,말레이시아,マレーシア,马来西亚
+America,美國,US,미국,米国,美国
+forum,論壇,Forum,미디어,フォーラム,论坛
+announcement,公告,Annoucement,홍보,公告,公告
+activity,活動,Events,네트워크,キャンペーン,活动
+connection_error,連線錯誤,Error,오류발생,接続エラー,连线错误
+screening_time,篩選時間,Filiter Time,시간선택,時間枠を選択する,筛选时间
+to,至,To,~,~,至
+start_time,開始時間,Start,거래시간,開始時間,开始时间
+end_time,結束時間,End,완료시간,終了時間,结束时间
+filter,篩選,Filter,선택,選りすぐる,筛选
+sort,排序,Sort by,정렬,順序,排序
+trade_date,交易日期,Date,일자,取引日,交易日期
+trade_coin_type,交易幣別,Currency Type,종목,取引通貨,交易币别
+change_type,異動類別,Source Type,순서내역,異動類別,异动类别
+change_number,異動數量,Amount,전송수량,異動数,异动数量
+rest_number,累積數量,Total,잔여수량,残り,累积数量
+currency,幣別,Currency,종목,通貨,币别
+close,關閉,Close,닫기,閉じる,关闭
+sort_field,排序欄位,Sort by,정렬위치,順序欄,排序栏位
+start_date,開始日期,Start,시작일자,開始日,开始日期
+end_date,結束日期,End,종료날짜,終了日,结束日期
+sort_by,排序方式,Sort,정렬방식,並び替え,排序方式
+positive_order,正序,Sort by A-Z,A -> Z,昇順,正序
+reverse_order,倒序,Sort by Z-A,Z -> A,降順,倒序
+personal,個人,Personal,내 자산,個人,个人
+referrer,推薦人,Referral,클라이언트,紹介者,推荐人
+withdrawal,出金,Withdraw,출금하기,出金,出金
+activity_change,活動異動,Variation,위치이동,イベント異動,活动异动
+undefined,未定義,Undefined,미확정,未定義,未定义
+personal_rebate_number,個人返佣數量,Personal Rebate,나의 리베이트,個人の報酬,个人返佣数量
+referrer_rebate_number,推薦人返佣數量,Referral Rebate,클라이언트 리베이트,紹介者の報酬,推荐人返佣数量
+withdrawal_quantity_1,出金數量,Amount Of Cash Out,출금수량,出金数,出金数量
+withdrawal_quantity_2,出金數量,Withdrawal Amount,출금수량,出金数,出金数量
+week,一週,Week,일주일,一週間,一週
+month,一月,Month,한달,一か月,一月
+season,一季,Season,시즌,ワンシーズン,一季
+filter_time,篩選時間,Filiter Time,시간선택,時間枠を選択する,筛选时间
+rebate_status,返佣狀態,Condition,상태창,リベート状態,返佣状态
+rebate_trading_volume,可返佣交易量,Trading Volume,리베이트 거래량,テイカー取引高,可返佣交易量
+rebate_quantity,可返佣數量,Rebate Quantity,리베이트 수량,報酬,可返佣数量
+no_rebate,未返佣,Surplus,진행중,保留中報酬,未返佣
+be_rebate,已返佣,Completing Rebate,완료,支払済報酬,已返佣
+enter_member_keyword,輸入會員名稱關鍵字,Search,선택,会員ネームの関連キーワードを入力してください,输入会员名称关键字
+manage_group,管理組別,Manage Group,정렬,グループを管理する,管理组别
+member_name,會員名稱,User Name,회원명,会員ネーム,会员名称
+referrer_group,推薦人分組,Referrer Group,지정그룹,紹介者組分け,推荐人分组
+no_group,未分組,Unclassified,미지정,組分けを分けていない,未分组
+application_status,申請狀態,Condition,신청내역,申請状態,申请状态
+application_number,申請單號,Application Number,신청코드,申請番号,申请单号
+apply_withdrawal_time,申請出金時間,Withdraw Time,출금요청시간,申請出金時間,申请出金时间
+apply_coin_type,申請幣別,Type of Currency,종목,申請通貨,申请币别
+apply_number,申請數量,Withdrawal Amount,수량신청,申請数量,申请数量
+completed_withdrawal_date,完成出金日期,Completing Rebate Date,출금일자,出金完了日,完成出金日期
+applying,申請中,Applying,신청중,申請中,申请中
+withdrawal,出金中,Processing,출금중,出金中,出金中
+completed,已完成,Complete,출금완료,完了しました,已完成
+commission_detail,佣金明細,Commission Details,세부내역,コミッション明細,佣金明细
+withdrawal_apply,出金申請,Withdraw,출금신청,出金申請,出金申请
+your_commission_change_record,您的佣金異動紀錄,Total Records,커미션 내역,お客様の手数料異動記録,您的佣金异动纪录
+personal_rebate_information,個人返佣資訊,Personal Rebate Information,나의 리베이트 내역,個人リベート情報,个人返佣资讯
+referrer_rebate_information,推薦人返佣資訊,Referral Rebate Information,레퍼럴 리베이트 내역,紹介者リベート情報,推荐人返佣资讯
+withdrawal_apply_record,出金申請紀錄,Withdrawal Application Record,출금신청내역,出金申請記録,出金申请纪录
+latest_events_news,最新消息,News,최신활동,新着情報。お知らせ,最新消息
+fdb_can_help_you,返多寶可以幫你,Fundobit Features,여러분과 함께 성장을 도모하는 생태계 협력파트너가 되도록 최선을 다하겠습니다,Fundobit をサポート,返多宝可以帮你
+featured_information,返多寶會員特色資訊，可以達到有效管理與圖表統計,We offer an effective management and show the clear results on an infographic,Fundobit 를 통하여 보다 체계적인 인프라 창출이 가능합니다.,Fundobit ユーザーへの特色情報ついては統計図や管理は効果的に達成できます,返多宝会员特色资讯，可以达到有效管理与图表统计
+independent_account_binding,獨立的帳號綁定,Connecting an independent account,자체 컴플라이언스 모듈,独立なアカウントをバインディング,独立的帐号绑定
+independent_account_verification,平台之間獨立帳號驗證，確保資料的安全信任度,"Binding the account independently, ensure your information Security and safety",대시보드를 통한 리베이트 안정성 메커니즘,情報システムは独立なアカウントを検証し、セキュリティ信頼度を確保します,平台之间独立帐号验证，确保资料的安全信任度
+revenue_visualization,佣金收入視覺化,Commisiion Visualization,커미션 내역 확보에 대한 궁극적인 가치실현,コミッション収入視覚化,佣金收入视觉化
+clearly_classified_rebates,清楚分類返佣種類與金額，幫助會員快速檢視返佣狀態,"Visualized the Commission income and categorized the amount of the commission, helping you quickly check your profits clearly.",여러분의 자산관리와 자산증대를 위한 건설적인 관계를 도모합니다.,リベートの種類と金額を明確に分類し、会員様にリベート状況を素早い確認できます,清楚分类返佣种类与金额，帮助会员快速检视返佣状态
+improve_information_management,完善資訊管理,Simple and fast information management,디지털 정보보호 시스템 구축 완료,完備の情報管理,完善资讯管理
+easy_members _control,多家交易所與貨幣地址管理，便於會員控管資料,"Easy for you to control your multiple exchanges and address, helping you manage your FUNDOBIT member account.",편리한 통합 월렛 시스템,複数の取引所と通貨アドレス管理、会員様に情報を管理しやすい,多家交易所与货币地址管理，便于会员控管资料
+online_service_team,在線客服團隊,Online Customer Service Team,CS팀 상시대기,オンライン．サービスグループ,在线客服团队
+professional_service,專業提供24客服服務，隨時隨地回應您的建議及疑問,24hr professional customer service,24시간 고객관리 전담을 통해 필요사항에 따른 요청내역 회신을 전달드릴 수 있도록 하겠습니다.,24時間カスタマーサービスを提供し、いつでもご提案やご質問に回答いたします,专业提供24客服服务，随时随地回应您的建议及疑问
+start_using,開始使用,Register,바로 시작하기,使用開始,开始使用
+start_rebate_journey,開始返佣旅程,Register,한번 둘러보기,リベートの旅を始める,开始返佣旅程
+three_steps,只需要三個步驟,Three steps,참조항목,ただ３ステップ,只需要三个步骤
+join_fdb,加入返多寶,Join Fundobit,생태계 파트너를 모집하고 혜택을 적용받으세요,Fundobitに参加する,加入返多宝
+quick_member_registration,快速註冊會員,Register Fundobit Member,생태계 파트너를 후원합니다,今すぐ会員の申し込みを,快速注册会员
+bound_exchange,綁定交易所,Exchange,우리와 함께하는 파트너,取引所をバインディングする,绑定交易所
+enter_exchange_information,輸入交易所註冊資訊,Enter Exchange Imformation,거래소 가입정보 입력,取引所の申し込み情報を入力してください,输入交易所注册资讯
+start_rebate,開始返佣,Earning Rebate,커미션 혜택부여,リベートを始める,开始返佣
+you_trade_i_rebate,您交易，我返佣,"By rebates , Increase profits","편리적인 거래, 효율적인 커미션 관리",取引していただきFundobitをリベートする,您交易，我返佣
+enjoy_rebate,輸入收幣地址即可享受返佣,Enter the currency address to enjoy the commission rebate,Fundobit를 통한 빠른 입출금 시스템이 여러분의 자산운용을 신속하게 도와드릴 것입니다.,入金アドレスを入力していただきリベートを始める,输入收币地址即可享受返佣
+member_login,會員登入,Login,로그인,会員登録,会员登入
+email,電子郵箱,Email,이메일,メールアドレス,电子邮箱
+password,密碼,Password,패스워드,パスワード,密码
+captcha,圖形驗證碼,Verification Code,순환인증코드,画像認証,图形验证码
+please_enter_captcha,請輸入圖形驗證碼,Please Enter Verification Code,순환인증코드를 입,画像に表示されている文字を入力してください,请输入图形验证码
+forget_password,忘記密碼,Forgot Password,비밀번호 찾기,パスワードをお忘れ,忘记密码
+reset_password,請重設密碼,Please reset your password,비밀번호 재설정,パスワード再設定してください,请重设密码
+havent_created_account,還沒創建過帳戶,Haven't created an account yet?,회원가입 해본적이 없을 경우,アカウントがまだ作成されていない,还没创建过帐户
+login_fail,登入失敗,Login Failed,로그인 실패,ログインに失敗しました,登入失败
+unconfirmed_account,帳號未確認,Incorrect Username,계정 확인불가,アカウントは未確認,帐号未确认
+certification_letter_resent,認證信已重新發送,The certification letter has been resent,인증 메일을 재전송합니다.,確認メールを再発送しました,认证信已重新发送
+re_send_certification_letter,重新寄發認證信,Re-send the certification letter,인증 메일 재확인,確認メールを再送します,重新寄发认证信
+cancel,取消,Cancel,취소,キャンセル,取消
+login_success,登入成功,Success,로그인 성공,ログインしました,登入成功
+enter_correct_email,請輸入正確電子郵件,Please enter the correct email,올바른 이메일 계정을 입력하세요,正しいメールアドレスを入力してください,请输入正确电子邮件
+please_enter_captcha,請輸入圖形驗證碼,Please Enter Verification Code,순환인증코드를 입력하세요,画像に表示されている文字を入力してください,请输入图形验证码
+build_password,建立新的密碼,Create a new password,새로운 비밀번호 만들기,新しいパスワードを作成します,建立新的密码
+enter_new_password_1,輸入新的密碼,Enter the new password,새로운 비밀번호를,新しいパスワードをご入力したら,输入新的密码
+enter_new_password_2,完成後須以新密碼登入,and log in with the new password after completion,입력하고 다시 로그인하세요,新しいパスワードをログインしてください,完成后须以新密码登入
+check_again,再次確認,Confirm,비밀번호 설정을 위해 다시 한번 입력하세요,もう一度ご確認してください,再次确认
+save_password,儲存密碼,Save,비밀번호 저장,パスワードを保存,储存密码
+useless_pages,無效頁面，倒轉回到首頁,"Invalid page, return to homepage",잘못된 페이지입니다. 처음 화면으로 돌아갑니다.,エラーが発生しました、ホームページに戻す,无效页面，倒转回到首页
+setting_success,設定成功,Set successfully,입력이 완료되었습니다.,設定が完了しました,设定成功
+check_password_unanimous,確認密碼：密碼要與新密碼一致,Confirm password: the password must be consistent with the new password,비밀번호 확인 : 기존과 다른 새로운 비밀번호를 입력하세요,確認のため、パスワードと新しいパスワードを一致してください,确认密码：密码要与新密码一致
+other_relative_article,其他相關文章,Other articles,관련 참조글,他の関連記事,其他相关文章
+no_relative_article,無相關文章,Can't find article,연관된 기사내용,他の関連記事がありません,无相关文章
+fdb_community,返多寶社群,Fundobit Community,Fundobit 기사내용,Fundobitコミュニティサイト,返多宝社群
+to_protect_account_security_1,請使用Fundobit專屬連結註冊交易所，否則將會綁定失敗。為保護帳號安全，交易所綁定後將無法編輯或刪除,"Please use the Fundobit exclusive link to register the exchange, otherwise the binding will fail.To protect the security of your account, you cannot edit or delete it after the exchange is bound",Fundobit 전용 링크를 사용하여 교환을 등록하십시오. 그렇지 않으면 바인딩이 실패합니다.계정 보안설정을 위해 연동된 거래소를 지우거나 수정할수 없습니다.,Fundobit専用リンクを使用して交換を登録してください。そうしないと、バインドが失敗します。アカウントの安全のために取引所をバインディングされたら編集と削除ができません,请使用Fundobit专属连结注册交易所，否则将会绑定失败。为保护帐号安全，交易所绑定后将无法编辑或删除
+to_protect_account_security_2,（*未綁定將無法查看您的返佣資訊）,(*You will not be able to view your rebate information if it is not bound),(연동하지 않을 경우 리베이트 내역 확인이 불가능),（*バインディングされていない状態リベートを調べられません）,（*未绑定将无法查看您的返佣资讯）
+select_exchange,選擇交易所,Select Exchange,지정된 거래소,取引所を選ぶ,选择交易所
+exchange_uid,交易所UID,Exchange of UID,거래소UID,取引所UID,交易所UID
+enter_exchange_uid,請輸入該交易所UID,Please enter the UID of the exchange,거래소 UID 입력하기,取引所UIDを入力してください,请输入该交易所UID
+mobile_phone,行動電話,Phone Number,연락처,携帯番号,行动电话
+please_enter_phone,請輸入行動電話,Please enter the Phone Number,연락처를 입력하세요,携帯番号を入力してください,请输入行动电话
+please_enter_email,請輸入該交易所會員郵件,Please enter the exchange member’s email,해당 거래소 이메일을 입력하세요,取引所の会員メールアドレスを入力してください,请输入该交易所会员邮件
+clear,清空,Empty,지우기,クリア,清空
+bind,綁定,Next,연동하기,バインディング,绑定
+exchange_verification_time,交易所驗證時間需1-3日工作天，無論驗證成功與否都將由系統寄出“驗證通知書”郵件通知會員,"The verification time of the exchange takes 1-3 working days. Regardless of whether the verification is successful or not, the system will send a ""Verification Notice"" email to notify members",거래소 연동 인증을 위한 확인절차는 근무일 기준으로 3일정도 소요됩니다. 처리가 완료된 후 이메일로 확인내역을 전송합니다.,取引所の検証時間は１日から三日程度をかかりますので検証完了するかどうかに関わらず“検証のお知らせ”をシステムからメールにお送りします,交易所验证时间需1-3日工作天，无论验证成功与否都将由系统寄出“验证通知书”邮件通知会员
+invalid_drawing,無效圖檔,Invalid,잘못된 이미지,図データが無効,无效图档
+verifying,驗證中,Processing,확인 진행중,検証中,验证中
+verified,驗證完畢,Complete,확인 완료,検証完了,验证完毕
+check_again_exchange_info,再次確認交易所綁定資訊,Reconfirm the information connecting to the CryptoCurrency Exchange,거래소 연동정보,取引所をバインディングされた情報をもう一度確認してください,再次确认交易所绑定资讯
+to_ensure_transaction_security,為保障各位交易安全，交易所若綁定三次都失敗，將會鎖定該交易所綁定之權限，因此請確定資料正確性,"Due to ensure the transaction safety, if the exchange binding fails three times, the binding authority of the exchange will be locked. Please, make sure the information is correct.",거래 안정화를 위해 3가지 인증절차를 확인부탁드립니다.,取引の安全を確保するため、3回バインディングに失敗した場合、取引所にバインディングされた権限がロックされますので正しい情報を確認してください,为保障各位交易安全，交易所若绑定三次都失败，将会锁定该交易所绑定之权限，因此请确定资料正确性
+unfilled,未填寫,Null,유효하지 않은 계정,未記入,未填写
+return,返回,Back,되돌아가기,戻る,返回
+please_select_exchange,請選擇交易所,Select Exchange,거래소 선택하기,取引所を選ぶ,请选择交易所
+please_enter_exchange_id,請輸入交易所UID,Enter Exchange UID,거래소 UID 입력,取引所のUIDを入力してください,请输入交易所UID
+m_phone_enter_number,行動電話：請輸入數字,Phone: Please Enter Number,연락처 : 휴대번호를 입력하세요,携帯電話：数字を入力してください,行动电话：请输入数字
+email_enter_correct,電子郵件：請輸入正確電子郵件,Email: Please enter the correct email,이메일 : 도메인을 포함한 전체 주소를 입력하세요,メールアドレス：正しいメールアドレスを入力してください,电子邮件：请输入正确电子邮件
+personal_information,基本個人資料,Profile,기본 인적사항,基本個人情報,基本个人资料
+only_fields_can_be_modified,為保障各位資訊安全，僅限欄位可以修改,"To protect your information security, only fields can be modified",개인정보 보호를 위해 카테고리 별 수정만 가능합니다,情報安全を保証のため修正できる欄は限られています,为保障各位资讯安全，仅限栏位可以修改
+change_personal_image,更改個人圖像,Edit,이미지 변경,写真を変更する,更改个人图像
+user_name,使用者名稱,Username,사용자 이름,コーザーネーム,使用者名称
+user_email,使用者信箱,User Email,사용자 이메일,コーザーメールアドレス,使用者信箱
+old_password,原密碼,Your Password,기존 비밀번호,元のパスワード,原密码
+new_password,新密碼,New Password,새로운 비밀번호,新しいパスワード,新密码
+edit_content,編輯內容,Edit,수정하기,内容を編集,编辑内容
+save,儲存,Save,저장,保存,储存
+image_upload_fail,圖片上傳失敗,Upload Failed,이미지 업로드 실패,画像アップロードエラー,图片上传失败
+personal_update_success,個人資料更新成功,Update Successful,프로필 업데이트 완료,個人情報の更新を完了しました,个人资料更新成功
+old_password_verify,密碼：請輸入6位數以上英數字,Password: Please enter more than 6 alphanumeric characters,비밀번호 : 6자리 이상의 영문 및 숫자를 입력하세요,パスワード : ６文字以上半角英数字を入力してください,密码：请输入6位数以上英数字
+new_password_verify,新密碼：請輸入6位數以上英數字,New Password: Please enter more than 6 alphanumeric characters,새 비밀번호 : 6자리 이상의 영문 및 숫자를 입력하세요,新しいパスワード : ６文字以上半角英数字を入力してください,新密码：请输入6位数以上英数字
+check_new_password,確認密碼：密碼要與新密碼一致,Reconfirm password: the password must be consistent with the new password,비밀번호 확인 : 변경된 비밀번호로 로그인하세요,確認のため、パスワードと新しいパスワードを同じく入力したください,确认密码：密码要与新密码一致
+edit_group,編輯組別,Edit Group,그룹 수정,グループを編集する,编辑组别
+belong_group,所在組別,Group,그룹 지정,所属グループ,所在组别
+join_date,加入日期,Join Date,가입일자,参加日,加入日期
+last_trade_date,最後交易日,Last Trading Day,최신거래일자,最後の引取日,最后交易日
+connect_info,聯絡資訊,Info,연락처 정보,連絡先,联络资讯
+rebate_trade_value,返佣交易量,Rebate Trading Volume,거래량 리베이트,リベートを取引できる数量,返佣交易量
+view_information,檢視資訊,Veiw,정보 검증,情報を検視する,检视资讯
+empty_data,暫無數據,No Result,데이터 없음,該当のデータがありません,暂无数据
+edit_recommender_group,編輯推薦人組別,Edit Referral Group,레퍼럴 그룹 편집,紹介者組を編集する,编辑推荐人组别
+select_group,選擇組別,Select Group,그룹 선택,グループを選択する,选择组别
+please_select_current_group,請選擇現有組別,Please Select Group,기존 그룹을 선택하세요,あるグループを選択してください,请选择现有组别
+build_group,建立新組別,Add New Group,새 그룹 만들기,新しいグループを作成します,建立新组别
+enter_group_name,輸入新組別名稱,Edit name,새 그룹명 입력,新しいグループネームを入力してください,输入新组别名称
+select_color,選擇顏色,Color,색상 선택,色を選ぶ,选择颜色
+manage_recommender_group,管理推薦人組別,Manage,레퍼럴 그룹 관리,紹介者組を管理する,管理推荐人组别
+please_enter_group_name,請輸入群組名稱,Edit name,그룹명을 입력하세요,グループネームを入力してください,请输入群组名称
+cancel_all,全部取消,Cancel,전체취소,全部取り消し,全部取消
+save_all,全部儲存,Save,저장하기,全部保存,全部储存
+bind_group_success,綁定群組成功,Group set successfully,그룹연동하기,グループのバインディングが完了,绑定群组成功
+save_success,保存成功,Save Successful,저장성공,保存が完了,保存成功
+change_address_takes_one_week_1,為保障用戶權益和出金安全,In order to protect the rights of users and the security of withdrawals,사용자 권익보장과 출금안전을 위하여 출금주소 수정은 이메일을 통해 확인이 가능합니다.,ユーザー権利と出金安全のため出金アドレスを修正する場合はメールを検証して,为保障用户权益和出金安全
+change_address_takes_one_week_2,修正出金地址須透過email驗證，變動地址需待一周後再次進行,"the correction of the withdrawal address must be verified by email, and the change of the address needs to be carried out again after a week",주소변경은 일주일 후에 변경이 가능합니다.,アドレス変更はまた一週間後に行ってください,修正出金地址须透过email验证，变动地址需待一周后再次进行
+coin_adress,請填入 {coin} 交易地址,Enter {coin} address,{coin}출금주소를 입력하세요.,{coin} 取引先のアドレスを入力してください,请填入 {coin} 交易地址
+coin_adress2,請填入 {coinAdress2},Enter {coinAdress2},{coinAdress2}를 입력하세요.,{coinAdress2}を入力してください,请填入 {coinAdress2}
+edit_adress,編輯地址,Edit Address,주소편집,アドレスを編集,编辑地址
+save_and_verify,儲存並驗證,Save and verify,저장하고 검증완료,保存して検証する,储存并验证
+goto_fdb_email_verify,請至返多寶會員郵箱驗證,Please verify by email,이메일 인증하기,Fundobit会員メールアドレスに戻って検証してください,请至返多宝会员邮箱验证
+enter_verification_code_in_ten,請於10分鐘內輸入驗證碼，未如驗證將無法更新此次提交,Please enter the verification code within 10 minutes.,인증번호를 입력해주세요. 입력하지 않을 경우 업데이트가 되지 않습니다.,10分内で検証コードを入力してください。入力しなければ提出ができません,请于10分钟内输入验证码，未如验证将无法更新此次提交
+verification_code,驗證碼,Verification code,인증번호,検証コード,验证码
+enter_verification_code,輸入驗證碼,Please enter the verify code,인증번호 입력,検証コードを入力してください,输入验证码
+check,確認,Confirm,확인,確認,确认
+btc_verify,BTC : 數字1＆3 開頭，26至37位區間英文大小寫+數字組成,Please enter the correct Bitcoin address,"BTC : 숫자 1 ~ 3 사이, 영문 대소문자 + 숫자로 구성합니다",BTC:数字1または3から始まる、2６以上37以内で半角英大文字半角英小文字+数字の組み合わせ,BTC : 数字1＆3 开头，26至37位区间英文大小写+数字组成
+xrp_verify,XRP : r開頭,Please enter the correct Ripple address,XRP : r시작,XRP:rから始める,XRP : r开头
+usdt_verify,USDT : 數字1＆3 & 0 開頭,Please enter the correct USDT address,USDT : 숫자 1&3&0 시작,USDT:数字1.3.0から始まる,USDT : 数字1＆3 & 0 开头
+eth_verify,ETH : 數字0 開頭，42位英文大小寫+數字組成,Please enter the correct Ether address,"ETH 숫자 0 시작, 42자리 영문 대소문자 + 숫자 구성",ETH:数字0から始まる、42文字の半角英大文字半角英小文字+数字の組み合わせ,ETH : 数字0 开头，42位英文大小写+数字组成
+bind_success,綁定成功,Connect Successful,바인딩 성공,バインディング完了,绑定成功
+friend_invitation_code,您的好友邀請碼,Referral Code,레퍼럴 코드,友達の招待コード,您的好友邀请码
+return_amount_rebates,返回返佣數量總覽,Return to Dashboard,수수료 리베이트,リベート数の一覧へ戻る,返回返佣数量总览
+exchange_management,交易所管理,Exchange Management,거래소 관리,取引所を管理する,交易所管理
+withdrawal_address_management,出金地址管理,Address Management,출금주소 관리,出金メールアドレスを管理する,出金地址管理
+referrer_management,推薦人管理,Refferral Management,레퍼럴 관리,紹介者を管理する,推荐人管理
+edit_profile,編輯個人檔案,Edit Profile,파일 편집,プロファイルを編集する,编辑个人档案
+invite_code_copy,邀請碼複製成功,Copy successfully,레퍼럴 코드 복사하기,招待コードをコピーした,邀请码複制成功
+invite_connect_copy,邀請連結複製成功,Copy successfully,레퍼럴 코드 복사성공,招待リングをコピーした,邀请连结複制成功
+build_account,創建帳戶,Register,계정 생성,ユーザーの作成,创建帐户
+invite_code,邀請碼,Referral Code,레퍼럴 코드,招待コード,邀请码
+enter_recommender_invite,輸入推薦人邀請碼,Enter Referral Code,레퍼럴 코드 입력,紹介者の招待コードを入力してください,输入推荐人邀请码
+service_terms,服務,Service,서비스,利用規約,服务
+has_account,已經有帳號？請 {0},Already have an account? Please {0},이미 계정이 있습니까? {0} 해 주십시오.,あなたはすでにメンバーですか？{0},已经有帐号？请 {0}
+mail_verification_notice,信箱驗證通知,Email verification notice,이메일 인증을 확인하세요,メールアドレス検証のお知らせ,信箱验证通知
+verification_email,提醒您：驗證電子郵件，開始返佣,Verify email and start rebate,알림 : 이메일 인증이 되어야만 수수료 반환이 가능합니다.,リマインド：メールアドレスを検証してリベート開始,提醒您：验证电子邮件，开始返佣
+please_enter_correct_email,電子郵件：請輸入正確電子郵件,Email: Please enter the correct email,이메일 : 올바른 이메일 주소를 입력하세요,メールアドレス：正しいメールアドレスを入力してください,电子邮件：请输入正确电子邮件
+password_en_number,密碼：請輸入6位數以上英數字,Password: Please enter more than 6 digits alphanumeric,"비밀번호 : 영문, 숫자를 포함한 6자리 이상 숫자 입력",パスワード : ６文字以上半角英数字を入力してください,密码：请输入6位数以上英数字
+invite_code_validate,邀請碼：8位數，含英數字，不含特殊符號,Referral Code,레퍼럴 번호 : 8자리 숫자로만 기입,招待コード：記号を含まない８文字以上半角英数字,邀请码：8位数，含英数字，不含特殊符号
+privacy_conditions_need_checked,隱私條件需勾選，才可以點擊註冊,Accept,개인정보보호는 체크표시를 해야지만 등록이 가능합니다.,プライバシー条件を同意してから、申し込みをクリック,隐私条件需勾选，才可以点击注册
+reset_password,重置您的密碼,Reset Password,비밀번호 초기화,パスワード再設定,重置您的密码
+enter_email_to_set_password,請輸入註冊時電子郵件，進行密碼重置,"Enter Email , Reset New Password",가입 시 입력했던 이메일 주소를 입력하여 비밀번호 재설정을 진행합니다.,登録したメールアドレスをご入力してパスワードの再設定を行います,请输入注册时电子邮件，进行密码重置
+send_password_link,發送密碼重置連結,Send password reset link,암호 초기화,パスワード再設定のURLを発送します,发送密码重置连结
+return_login_page,回到登入畫面,Back to menu,로그인 화면으로 되돌아가기,登録画面に戻る,回到登入画面
+email_notify,電子郵箱通知,Email notification,이메일로 발송됩니다.,メールアドレスのお知らせ,电子邮箱通知
+receiving_linked_letters,請去電子郵箱收取連結信件,Check Email with link,이메일 수신함을 확인하세요.,メールアドレスにURLを受信してください,请去电子邮箱收取连结信件
+member_withdraw_application,會員出金申請,Withdraw,회원 출금신청,会員出金の申請,会员出金申请
+fill_withdrawal_account_information,填寫出金帳戶資訊,Withdraw Information,출금주소 입력,出金口座情報を入力してください,填写出金帐户资讯
+no_tradable_currency,尚無可交易之幣種,There is no tradable currency,거래가 불가능한,取引可能な通貨はありません,尚无可交易之币种
+go_to_withdrawal_application_address,請至出金申請地址進行設定,Please go to the withdrawal application address to set,입니다. 출금 신청주소를 설정합니다.,出金申請アドレスへ設定してください,请至出金申请地址进行设定
+reconfirm_withdrawal_information_amount,再次確認出金資訊與金額,Reconfirm the withdrawal information and amount,출금관리,出金情報と金額再確認,再次确认出金资讯与金额
+operation_success,操作成功,Successful,처리완료,操作成功,操作成功
+select_withdraw_coin_type,選擇出金幣別,Type,종목 선택,出金通貨を選ぶ,选择出金币别
+handling_fee,手續費,Gas Fee,수수료,手数料,手续费
+not_yet_selected,尚未選擇,Please select withdrawal of the currency type,완료되지 않은 항목,未選択,尚未选择
+withdraw_adress,出金地址,Address,출금주소,出金アドレス,出金地址
+amount_can_be_withdrawn,可出金數量,Available,출금수량,出金可能数,可出金数量
+min_withdraw,最低出金限制,Minimum Limit,최저출금제한,最低出金制限,最低出金限制
+please_enter_withdrawal_amount,請輸入出金金額,Amount,출금금액을 입력합니다,出金金額を入力してください,请输入出金金额
+cancel_withdraw,取消出金,Cancel,출금취소,出金をキャンセル,取消出金
+next_step,下一步,Next,다음,次へ,下一步
+actual_quantity,實拿數量,Amount,실제수량,実際数,实拿数量
+submit_withdrawal_application,注意：親愛的會員您好，請再次確認您的交易地址是否正確，若無誤將進行出金申請提交,"Note: Hello, dear members, please confirm whether your transaction address is correct, and if it is correct, the withdrawal application will be submitted","힌트: 친애하는 회원 거래 주소가 정확한지 확인하시고, 주소가 맞으면 출금 신청서가 접수됩니다.",注意：会員様へ取引先のアドレスが正しいかどうかを再確認して、間違いがなければ出金申請を提出されます,注意：亲爱的会员您好，请再次确认您的交易地址是否正确，若无误将进行出金申请提交
+previous,上一步,Previous,이전페이지,戻る,上一步
+submit_application,提出申請,Apply,승인 신청하기,申請を提出,提出申请
+expected_complete_withdrawal,預計48 小時內完成出金,It is estimated that the withdrawal will be completed within 48 hours.,출금은 48시간 정도 소요됩니다.,４８時間内出金完了予定,预计48 小时内完成出金
+if_any_problem,若有任何問題請聯繫返多寶客服中心,"If you have any questions, please contact Fundobit Customer Service Center",관련된 문제가 발생할 경우 고객센터로 문의바랍니다.,ご不明な点がございましたら、Fundobit カスタマーサービスセンターまでお問い合わせください,若有任何问题请联繫返多宝客服中心
+back_to_list,回到列表,Menu,목록으로 되돌아가기,リストへ戻る,回到列表
+application_again,再申請一筆,Next Apply,다시 신청하기,再申請,再申请一笔
+withdraw_coin_type,出金幣別,Type Of Currency,출금 종목,出金通貨,出金币别
+enter_withdraw_coin_type,請輸入出金幣別,Please enter withdraw type of currency,출금 종목을 입력하세요,ご出金通貨を入力してください,请输入出金币别
+enter_withdraw_amount,請輸入出金數量,Please enter withdraw amount,수량 입력하기,ご出金数を入力してください,请输入出金数量
+exceeds_amount_withdrawn,超過可出金數量,Exceeds the amount of currency that can be withdrawn,출금 수량 초과,ご出金できる数を超え,超过可出金数量
+less_min_withdraw,低於 {selectedCoinName} 最低出金數量 {coinminiAmount},Less than {selectedCoinName} minimum withdrawal amount {coinminiAmount},{selectedCoinName}최소출금수량 {coinminiAmount},より下 {selectedCoinName} 最低出金数 {coinminiAmount},低于 {selectedCoinName} 最低出金数量 {coinminiAmount}
+application_success,申請成功,Apply Successful,신청완료,申請完了,申请成功
+first_corporate,首家企業化的「返佣平台」及「論壇」 提供全方位返佣方案,"The first corporate to provide a full range of rebate solutions of ""Rebate Platform"" and ""Forum""",자사는 리베이트 플랫폼으로 독자적인 우호협력 모든 파트너들과 합리적인 방법으로 솔루션을 공급하고자 설립되었습니다.,実業家において第一社である「リベートシステム」、「フォーラム」をオールラウンドリベートプランを提供します,首家企业化的「返佣平台」及「论坛」提供全方位返佣方案
+trade_rebate,「交易返佣、手續費返佣、推薦好友再返佣」,"Trade rebates, Commission rebates, Referral rebates","거래량 리베이트, 수수료 리베이트, 레퍼럴 리베이트",「取引リベート、手数料リベート、友達を招待したらまたリベート」,「交易返佣、手续费返佣、推荐好友再返佣」
+rebate_process,返佣流程,Rebate Process,리베이트 절차관련,リベートの流れ,返佣流程
+application_fdb_member,申請返多寶會員,Apply for Fundobit membership,회원신청,Fundobitの会員を申請する,申请返多宝会员
+friends_invitation_code_commission,另外新增好友邀請碼可共同獲得反佣,You and your friends can get rebates with referral plan,함께 가입하고 함께 혜택받는 폭넓은 기회제공,友達の招待コードを追加、自分とお友達の両方ともリベートを貰える,另外新增好友邀请码可共同获得反佣
+register_exchange_through_rebate_link,透過返多寶鏈結註冊交易所,Register the exchange through the Fundobit rebate link,거래소 가입절차 필요없이 단번에 해결하는 올인원플랫폼,Fundobitのリングを通して取引所を申し込み,透过返多宝链结注册交易所
+exchange_uid_bind_member,將交易所UID與返多寶會員綁定,Connecting exchange UID with Fundobit member,귀하의 거래소 UID는 플랫폼 API와 상시 연동되어 있습니다.,UID取引所とFundobit会員をバインディングします,将交易所UID与返多宝会员绑定
+receive_rebate,領取返佣,Receive commission,리베이트 회수하기,リベートを受け取る,领取返佣
+view_commission_rebate_dashboard,檢視返佣儀表板，輸入錢包地址，申請出金,"View the commission rebate dashboard, enter the wallet address, and apply for withdrawal","리베이트 도표, 도식화 그래프 산출, 출금신청",リベートダッシュボードを検視、口座を入力して出金を申し込み,检视返佣仪表板，输入钱包地址，申请出金
+rebate_guarantee,返佣保證,Rebate Promise,리베이트 보증,リベート保証,返佣保证
+no_trading_conditions_required,成為返多寶用戶，不需要任何交易條件，即有40%交易返佣。,Fundobit members ONLY !!! Trading can get  40% commission rebate,거래수수료 40%로 업계 최상위 리베이트 혜택을 제공하며.,Fundobitの会員になったら取引条件は必要ありません。すぐ40%の取引リベートを貰える。,成为返多宝用户，不需要任何交易条件，即有40%交易返佣。
+enjoy_another_ten_recommendation,返多寶邀請計畫，好友交易返佣再享10%推薦。,Fundobit Referral Plan，10% trading rebates.,이와 같은 레퍼럴 혜택 10%가 제공됩니다.,Fundobitの招待企画は友達の取引リベート更に10%還元,返多宝邀请计画，好友交易返佣再享10%推荐。
+apply_account,申請開戶,Register,계정 생성하기,口座開設の申請,申请开户
+rebate_subsidy_ratio,返多寶補貼比例,FUNDOBIT commission rebate ratio,가입 보너스,Fundobitの補助比率,返多宝补贴比例
+refer_friends_rebate_ratio,推薦好友返佣比例,Referral rebate ratio,레퍼럴 수수수료,友達紹介のリベート比率,推荐好友返佣比例
+official_agent_rebate_ratio,官方代理返佣比例,Official agent rebate ratio,파트너 리베이트,公式代理リベート比率,官方代理返佣比例
+lever,槓桿,Leverage,레버리지,レバレッジ,槓杆
+trading_pair,交易對,Market,거래대비,通貨,交易对
+transaction_support,交易支持,Trade Support,거래지원,取引を支える,交易支持
+futures,期貨,Futures,담보대출,先物取引,期货
+average_transaction_volume,平均交易量,Volume,평균 거래량,平均取引量,平均交易量
+asset_strength,資產實力,Asset,자산,資産実力,资产实力
+billion_1,65.66 億,6.5 Billion,65.66 억,65.66 億,65.66 亿
+bybit_advantage,Bybit 優勢,Bybit advantage,바이비트 우세,Bybit優勢,Bybit 优势
+fair_transparent,公平透明,Openness and Transparency,거래안정성,公正透明,公平透明
+mark_price_selects_real_time,標記價格選取 Coinbase、Bitstamp、Kraken（三大受美國證監會監管交易所）的實時成交價,"The mark price selects the real-time transaction prices of Coinbase, Bitstamp, and Kraken (the three major exchanges regulated by the US Securities Regulatory Commission)","코인베이스, 비트스탬프, 크라켄 거래평균시세",標記価額コインベース、ビットスタンプ、クラーケンを選ぶ(米国証券取引委員会SEC),标记价格选取 Coinbase、Bitstamp、Kraken（三大受美国证监会监管交易所）的实时成交价
+market_depth_no_one,市場深度中國第一,Market Depth No. 1 in China,마켓뎁스 사용량 1위,マーケットの深みは中国ナンバーワン,市场深度中国第一
+according_latest_statistics,根據最新統計數據，Bybit的平均前三個檔位盤口深度已遠超中國市場平均深度水準,"The mark price selects the real-time transaction prices of Coinbase, Bitstamp, and Kraken (the three major exchanges regulated by the US Securities Regulatory Commission)",최근 측정된 데이터에서 바이빗은 가상자산 마켓뎁스가 순위권 3위안에 등재되었다.,最新の統計によるとBybitは最初三ヶ月の平均ハンディキャップが中国マーケット平均レベルを超えました,根据最新统计数据，Bybit的平均前三个档位盘口深度已远超中国市场平均深度水准
+flexible_leverage,彈性槓桿,Flexible leverage,격리마진,弾力レバレッジ,弹性槓杆
+which_long_term_investment,提供1至100倍槓桿，且為永續合約，可長線投資,"Provide 1-100 times leverage, perpetual contract, long-term investment","100배 레버리지 제공, 무기한 계약을 통한 거래지속성",1から100倍までのレバレッジを提供し、協力は永続的なので長期投資ができます,提供1至100倍槓杆，且为永续合约，可长线投资
+top_allocation_fund_security_system,頂配的資金安全體系,High-standard assets security system,안전성호환모듈,最高のセキュリティエコシステム,顶配的资金安全体系
+platform_builds_industry_advanced,平台自建業內最領先的分層確定性冷錢包體系,The platform builds the industry's most advanced layered deterministic cold wallet system,플랫폼 레이어 구축,業界で最も先進的な階層化されたコールドウォレットシステム,平台自建业内最领先的分层确定性冷钱包体系
+intelligent_ordering_system_support,智能下單系統支持,Intelligent ordering system support,스마트컨트랙 전송시스템,知能注文システムを支え,智能下单系统支持
+set_profit_stop_loss_trailing,入場時直接設置止盈/止損及追踪止損，無需時刻盯盤,"Set profit/stop loss and trailing stop loss directly when entering the market, no need to watch the market all the time",인터페이스 없이 자동 포지션 지정가 손절/역지정 설정가능,寄り付き前に利益確保/損切りと損切りの追跡を直接設置できるので板をじっと見なくでも安心,入场时直接设置止盈/止损及追踪止损，无需时刻盯盘
+flexible_fund_allocation,資金調配靈活,Flexible fund allocation,풍부한 자금유동성,資金移動をスムーズ,资金调配灵活
+no_minimum_transaction_amount,無交易金額下限，即使資金不足也有機會投資,"There is no minimum transaction amount, even if the funds are insufficient, there is a chance to invest",최소한도금액 없이 투자가능,取引の最少額がありませんので、資金不足にも投資なチャンスがあります,无交易金额下限，即使资金不足也有机会投资
+become_member_fdb,成為返多寶會員,Register Fundobit member,Fundobit 유저 등록 시,Fundobitの会員になる,成为返多宝会员
+return_fdb_subsidize,返多寶再補貼給您交易手續費,Fundobit subsidizes you transaction fees,Fundobit 가입보너스 및 수수료 절감가능,Fundobitがまた取引手数料を補助してくれます,返多宝再补贴给您交易手续费
+only_thing_reduce_transaction_costs,為您降低交易成本的只有「返多寶」,"The only thing that can reduce your transaction costs is ""Fundobit""",Fundobit를 통해 절감된 거래수수료 제공,お客様の取引コストを減らすのはFundobitだけ,为您降低交易成本的只有「返多宝」
+enter_number_slot,請輸入{number}位數以上英數字,Please enter more than {number} digits alphanumeric,{number}자리 이상의 영문 및 숫자를 입력하세요,{number}文字以上半角英数字を入力してください,请输入{number}位数以上英数字
+enter_en_number,輸入{number}位數以上，含英數字,"Enter more than {number} digits, including alphanumerics",영문과 숫자를 포함하여 {number}자리 이상이여야 합니다,{number}文字以上半角英数字を入力してください,输入{number}位数以上，含英数字
+please_enter_user_name,請輸入使用者名稱,Please enter username,사용자명 입력,ユーザー名を入力してください,请输入使用者名称
+cancelled,已取消,Cancelled,취소됨,キャンセルが完了,已取消
+not_yet_selected_unbound,尚未選擇或未綁定,Enter withdraw address,이미 계정생성이 완료되었습니다.,まだ選択されていない、またはバインディングされていません,尚未选择或未绑定
+please_check_your_email_receive,請至信箱收取認證信件或重新發送認證信，如仍有異常請聯繫客服團隊,"Please check your email to receive the certification letter or resend the certification letter. If there is still an abnormality, please contact the customer service team",우편함으로 인증메일을 확인하시고 문제가 있을 경우 고객지원팀으로 연락 주시기 바랍니다.,メールアドレスで確認コードを受信または確認コードを再発送する。もし何が異常かあるなら、サービスセンターにご聯絡ください,请至信箱收取认证信件或重新发送认证信，如仍有异常请联系客服团队
+start_rebate,開始返佣,Referral Program,리베이트 적용하기,リベート開始,开始返佣
+coopertion_bis,合作幣商,Industry Partners,파트너쉽 명단,コインディーラーとの提携,合作币商
+billion_2,90.35 億,9 Billion,90.35 억,90.35 億,90.35 亿
+i_have_read_and_agree,我已閱讀並同意FDB的 {service} 與 {privacy_policy},I have read and agree to FDB's {service} and {privacy_policy},나는 이미 FDB의 {service} 와 {privacy_policy} 을 읽고 동의했습니다.,FDB の {service} 及び {privacy_policy} に同意します,我已阅读并同意FDB的 {service} 与 {privacy_policy}
+service,服務,Service,서비스,利用規約,服务
+more_view,查看更多,more,더보기,続きを見る,查看更多
+register_link,註冊連結,Registration,등록 링크,登録リンク,注册连结
+enter_number_range,請輸入{0}-{1}數字,Please enter {0}-{1} numbers,{0}-{1}자리 숫자를 입력하세요,{0}-{1}の数字を入力してください,请输入{0}-{1}数字
