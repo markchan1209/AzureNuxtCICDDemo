@@ -11,7 +11,7 @@
     "build": "nuxt build",
     "start": "node server/index.js",
     "generate": "nuxt generate",
-    "postinstall": "npm run build"
+    "postinstall": "npm run build" 
   },
   "dependencies": {
     "nuxt": "^2.0.0",
