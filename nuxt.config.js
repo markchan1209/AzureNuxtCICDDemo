@@ -1,5 +1,4 @@
-module.exports = {
-  mode: 'universal',
+module.exports ={
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'FUNDOBIT',
@@ -24,7 +23,10 @@ module.exports = {
       { rel: 'icon', type: 'image/x-icon', href: '/logo.png' }
     ]
   },
-
+  env: {
+    VUE_APP_API_URL: process.env.NODE_ENV !== 'production' ?'https://test-fdb-web-api.azurewebsites.net' : 'https://fdb-web-api.azurewebsites.net' ,
+    VUE_APP_CLOUD_WEB: process.env.NODE_ENV !== 'production' ?'https://test-fdb-web-front.azurewebsites.net':'https://fdb-web-front.azurewebsites.net'
+  },
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
     // css
@@ -81,20 +83,10 @@ module.exports = {
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
     transpile: [/^element-ui/],
-    postcss: {
-      preset: {
-        features: {
-          customProperties: false
-        }
-      }
-    },
-    /*
-     ** You can extend webpack config here
-     */
-    extend(config, ctx) {}
   }, 
   server: {
     host: '0.0.0.0', // default: localhost,
+    port: 8000, // default: 3000,
     timing: false
   }
 }
