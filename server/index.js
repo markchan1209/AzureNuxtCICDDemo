@@ -12,6 +12,7 @@ async function start() {
   // Init Nuxt.js
   const nuxt = new Nuxt(config)
 
+  
   // Build only in dev mode
   if (config.dev) {
     const builder = new Builder(nuxt)
@@ -25,7 +26,7 @@ async function start() {
 
   // Listen the server
   app.listen(3000, '0.0.0.0')
-  console.log('Server listening on ' + host + ':' + port) // eslint-disable-line no-console
+  console.log('Server listening on http://0.0.0.0:3000') // eslint-disable-line no-console
 }
 
 start()
