@@ -5,12 +5,12 @@ const app = express()
 // Import and Set Nuxt.js options
 const config = require('../nuxt.config.js')
 config.dev = !(process.env.NODE_ENV === 'production')
-
+console.log(process.env.NODE_ENV)
+console.log(process.env.VUE_APP_API_URL)
+console.log(process.env.VUE_APP_CLOUD_WEB)
 async function start() {
   // Init Nuxt.js
   const nuxt = new Nuxt(config)
-
-  const { host, port } = nuxt.options.server
 
   // Build only in dev mode
   if (config.dev) {
@@ -24,7 +24,7 @@ async function start() {
   app.use(nuxt.render)
 
   // Listen the server
-  app.listen(port, host)
+  app.listen(3000, '0.0.0.0')
   console.log('Server listening on ' + host + ':' + port) // eslint-disable-line no-console
 }
 
